@@ -1,3 +1,15 @@
-h1{
-    
+.topo{
+    display: flex;
+    width: 1200px;
+    height: auto;
+    justify-content: space-between;
+}
+
+.nome{
+    display: flex;
+    background-color: aqua;
+    font-size: 50px;
+    width: auto;
+    height: 100px;
+    align-items: center;
 }
