@@ -16,12 +16,26 @@
     background-color: aqua;
     border-radius: 2px;
     width: 350px;
+    height: auto;
     font-size: 25px;
     justify-content: center;
 }
 .profissao{
+    width: 350px;
     background-color:blue;
     font-size: 30px;
+}
+.corpo{
+    background-color: yellowgreen;
+    display: flex;
+    align-items: top;
+    width: 970px;
+    height: auto;
+    font-size: 20px;
+}
+.sobre{
+    width: 350px;
+    justify-items: center;
 }
 hr{
     background-color: black;
