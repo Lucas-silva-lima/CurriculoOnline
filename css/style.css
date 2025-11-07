@@ -7,7 +7,7 @@
 .nome{
     display: flex;
     background-color: aqua;
-    font-size: 50px;
+    font-size: 45px;
     width: auto;
     height: 100px;
     align-items: center;
@@ -24,18 +24,23 @@
     width: 350px;
     background-color:blue;
     font-size: 30px;
+    
 }
 .corpo{
     background-color: yellowgreen;
     display: flex;
     align-items: top;
-    width: 970px;
+    width: 780px;
     height: auto;
     font-size: 20px;
+    justify-content: space-around;
 }
 .sobre{
-    width: 350px;
-    justify-items: center;
+    background-color: blue;
+    width: 400px;
+    justify-content: flex-end;
+    text-align: justify;
+    right: 100px;
 }
 hr{
     background-color: black;
