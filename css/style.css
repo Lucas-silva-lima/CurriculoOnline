@@ -12,7 +12,7 @@
     align-items: center;
 }
 .contato{
-    background-color: aqua;
+    background: linear-gradient(#1500ff, #7b1dff);
     border: 2px solid black;
     width: 350px;
     height: auto;
